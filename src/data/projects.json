@@ -1,39 +1,37 @@
-{
-    "projects": [
-        {
-            "id": 1,
-            "Name": "NeonBank",
-            "Tag": "FinTech",
-            "Tech Stack": [
-                "React",
-                "Python",
-                "AWS"
-            ],
-            "Description": "A complete overhaul of a legacy banking dashboard, reducing load times by 40% and improving user retention.",
-            "Image": "some url"
-        },
-        {
-            "id": 2,
-            "Name": "Scout AI",
-            "Tag": "Artificial Intelligence",
-            "Tech Stack": [
-                "TensorFlow",
-                "Python",
-                "Docker"
-            ],
-            "Description": "Automated lead generation tool for Venture Capital firms. Scrapes and analyzes 50k+ data points daily.",
-            "Image": "some url"
-        },
-        {
-            "id": 3,
-            "Name": "HealthSync",
-            "Tag": "HealthTech",
-            "Tech Stack": [
-                "React Native",
-                "Firebase"
-            ],
-            "Description": "Patient-doctor communication portal compliant with HIPAA regulations.",
-            "Image": "some url"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "title": "NeonBank",
+        "category": "FinTech",
+        "techStack": [
+            "React",
+            "Python",
+            "AWS"
+        ],
+        "description": "A complete overhaul of a legacy banking dashboard, reducing load times by 40% and improving user retention.",
+        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=NeonBank+UI"
+    },
+    {
+        "id": 2,
+        "title": "Scout AI",
+        "category": "Artificial Intelligence",
+        "techStack": [
+            "TensorFlow",
+            "Python",
+            "Docker"
+        ],
+        "description": "Automated lead generation tool for Venture Capital firms. Scrapes and analyzes 50k+ data points daily.",
+        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Scout+AI+Nodes"
+    },
+    {
+        "id": 3,
+        "title": "HealthSync",
+        "category": "HealthTech",
+        "techStack": [
+            "React Native",
+            "Firebase"
+        ],
+        "description": "Patient-doctor communication portal compliant with HIPAA regulations.",
+        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=HealthSync+App"
+    }
+]

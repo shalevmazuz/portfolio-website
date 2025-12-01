@@ -1,9 +1,10 @@
 import React from 'react'
+import Hero from './components/Hero'
 
 function App() {
   return (
     <div className="app-container">
-      <h1>Lumina Portfolio MVP</h1>
+      <Hero />
     </div>
   )
 }
