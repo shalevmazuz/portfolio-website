@@ -1,0 +1,39 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "Name": "NeonBank",
+            "Tag": "FinTech",
+            "Tech Stack": [
+                "React",
+                "Python",
+                "AWS"
+            ],
+            "Description": "A complete overhaul of a legacy banking dashboard, reducing load times by 40% and improving user retention.",
+            "Image": "some url"
+        },
+        {
+            "id": 2,
+            "Name": "Scout AI",
+            "Tag": "Artificial Intelligence",
+            "Tech Stack": [
+                "TensorFlow",
+                "Python",
+                "Docker"
+            ],
+            "Description": "Automated lead generation tool for Venture Capital firms. Scrapes and analyzes 50k+ data points daily.",
+            "Image": "some url"
+        },
+        {
+            "id": 3,
+            "Name": "HealthSync",
+            "Tag": "HealthTech",
+            "Tech Stack": [
+                "React Native",
+                "Firebase"
+            ],
+            "Description": "Patient-doctor communication portal compliant with HIPAA regulations.",
+            "Image": "some url"
+        }
+    ]
+}

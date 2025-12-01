@@ -1,0 +1,32 @@
+:root {
+  /* The Lumina Palette */
+  --bg-color: #121212;
+  /* Deep Charcoal (Not Black) */
+  --card-bg: #1E1E1E;
+  /* Slightly lighter for cards */
+  --text-primary: #FFFFFF;
+  /* Pure White */
+  --text-secondary: #A0A0A0;
+  /* Light Gray for subtitles */
+  --accent-color: #3B82F6;
+  /* Electric Blue */
+
+  /* Spacing & Layout */
+  --max-width: 1200px;
+  --radius: 8px;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+/* Utility to center the content */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 2rem;
+}
