@@ -1,0 +1,21 @@
+.projects-section {
+    padding: 4rem 2rem;
+    /* Vertical spacing */
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    border-left: 4px solid var(--accent-color);
+    /* Cool design accent */
+    padding-left: 1rem;
+}
+
+.projects-grid {
+    display: grid;
+    /* The Magic Line: Create columns that auto-fit */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
