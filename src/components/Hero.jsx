@@ -10,9 +10,7 @@ const Hero = () => {
                 <p className="hero-subtitle">
                     Specialized software consultancy for Series A+ startups. We bridge the gap between product roadmaps and engineering reality
                 </p>
-                <button className="cta-button">
-                    View Recent Work
-                </button>
+                <a href="#projects" className="cta-button">View Recent Work</a>
             </div>
         </section>
     )
