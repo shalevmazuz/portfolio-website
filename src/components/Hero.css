@@ -19,17 +19,24 @@ h1 {
 }
 
 .cta-button {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
     background-color: var(--accent-color);
     color: white;
-    padding: 12px 24px;
+    padding: 0.8rem 1.5rem;
     border-radius: var(--radius);
     text-decoration: none;
     font-weight: 500;
+    font-size: 1rem;
     margin-top: 2rem;
-    transition: background-color 0.2s;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .cta-button:hover {
     background-color: #2563EB;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
 }
