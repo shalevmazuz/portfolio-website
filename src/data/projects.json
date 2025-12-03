@@ -1,37 +1,51 @@
 [
     {
         "id": 1,
-        "title": "NeonBank",
-        "category": "FinTech",
+        "title": "Tank Battle Simulation",
+        "category": "Game Development",
         "techStack": [
-            "React",
-            "Python",
-            "AWS"
+            "C++",
+            "OOP",
+            "Multi-threading"
         ],
-        "description": "A complete overhaul of a legacy banking dashboard, reducing load times by 40% and improving user retention.",
-        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=NeonBank+UI"
+        "description": "Developed offensive and defensive tank algorithms with a modular game manager for automated simulations.",
+        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Tank+Battle"
     },
     {
         "id": 2,
-        "title": "Scout AI",
-        "category": "Artificial Intelligence",
+        "title": "Intrusion Detection Using ML",
+        "category": "Cybersecurity & AI",
         "techStack": [
-            "TensorFlow",
             "Python",
-            "Docker"
+            "Scikit-learn",
+            "ML workflow",
+            "Web Security"
         ],
-        "description": "Automated lead generation tool for Venture Capital firms. Scrapes and analyzes 50k+ data points daily.",
-        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Scout+AI+Nodes"
+        "description": "Research project to train, evaluate and compare Random Forest, KNN, and SVM models for detecting web application intrusions using network traffic data.",
+        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Intrusion+Detection"
     },
     {
         "id": 3,
-        "title": "HealthSync",
-        "category": "HealthTech",
+        "title": "Age Framing in LLMs",
+        "category": "NLP Research",
         "techStack": [
-            "React Native",
-            "Firebase"
+            "Python",
+            "Hugging Face",
+            "BERT",
+            "LLMs"
         ],
-        "description": "Patient-doctor communication portal compliant with HIPAA regulations.",
-        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=HealthSync+App"
+        "description": "Research project analyzing how age-specific prompts influence linguistic style and readability in large language models.",
+        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Age+Framing+LLMs"
+    },
+    {
+        "id": 4,
+        "title": "License Plate Blur App",
+        "category": "Computer Vision",
+        "techStack": [
+            "Python",
+            "OpenCV"
+        ],
+        "description": "Developed a computer vision application that automatically detects and blurs vehicle license plates to ensure privacy protection.",
+        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=License+Plate+Blur"
     }
 ]
