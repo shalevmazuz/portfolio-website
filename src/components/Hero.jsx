@@ -5,12 +5,14 @@ const Hero = () => {
         <section id="hero" className="hero-section">
             <div className="hero-content">
                 <h1>
-                    Scaling Technical Vision
+                    Shalev Mazuz
                 </h1>
                 <p className="hero-subtitle">
-                    Specialized software consultancy for Series A+ startups. We bridge the gap between product roadmaps and engineering reality
+                    I am a Computer Science graduate from Tel Aviv University seeking entry-level opportunities in software
+                    development. I bring a strong foundation in programming and a desire to apply my skills to real-world challenges while
+                    contributing to innovative projects.
                 </p>
-                <a href="#projects" className="cta-button">View Recent Work</a>
+                <a href="public\Resume-Shalev Mazuz.pdf" className="cta-button" download="Resume-Shalev Mazuz.pdf">Download Resume</a>
             </div>
         </section>
     )
