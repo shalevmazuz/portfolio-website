@@ -8,8 +8,8 @@
             "OOP",
             "Multi-threading"
         ],
-        "description": "Developed offensive and defensive tank algorithms with a modular game manager for automated simulations.",
-        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Tank+Battle"
+        "description": "Developed offensive and defensive tank algorithms with a modular game manager for automated simulations with multithreaded option.",
+        "imageUrl": "public/TankBattle.png"
     },
     {
         "id": 2,
@@ -22,7 +22,7 @@
             "Web Security"
         ],
         "description": "Research project to train, evaluate and compare Random Forest, KNN, and SVM models for detecting web application intrusions using network traffic data.",
-        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Intrusion+Detection"
+        "imageUrl": "public/IntrusionDetection.png"
     },
     {
         "id": 3,
@@ -35,7 +35,7 @@
             "LLMs"
         ],
         "description": "Research project analyzing how age-specific prompts influence linguistic style and readability in large language models.",
-        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=Age+Framing+LLMs"
+        "imageUrl": "public/NLP.png"
     },
     {
         "id": 4,
@@ -46,6 +46,6 @@
             "OpenCV"
         ],
         "description": "Developed a computer vision application that automatically detects and blurs vehicle license plates to ensure privacy protection.",
-        "imageUrl": "https://placehold.co/600x400/1e1e1e/3B82F6?text=License+Plate+Blur"
+        "imageUrl": "public/LicensePlateBlur.png"
     }
 ]
