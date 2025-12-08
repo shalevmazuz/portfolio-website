@@ -9,7 +9,7 @@
             "Multi-threading"
         ],
         "description": "Developed offensive and defensive tank algorithms with a modular game manager for automated simulations with multithreaded option.",
-        "imageUrl": "public/TankBattle.png",
+        "imageUrl": "TankBattle.png",
         "url": "https://github.com/shalevmazuz/TankGameSimulator"
     },
     {
