@@ -12,7 +12,7 @@ const Hero = () => {
                     contributing to innovative projects.
                 </p>
                 <a
-                    href="/Resume-Shalev Mazuz.pdf"
+                    href="Resume-Shalev Mazuz.pdf"
                     className="cta-button"
                     download="Resume-Shalev Mazuz.pdf"
                 >
