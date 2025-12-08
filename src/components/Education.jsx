@@ -1,8 +1,10 @@
 import './Education.css'
+import { v4 as uuid } from "uuid";
 
 const Education = () => {
     const educationData = [
         {
+            id: uuid(),
             school: "Tel Aviv University",
             degree: "B.Sc. Computer Science",
             year: "2021 - 2025",
@@ -13,10 +15,9 @@ const Education = () => {
     return (
         <section id="education" className="education-section">
             <h2 className="section-title">Education</h2>
-
             <div className="education-grid">
-                {educationData.map((edu, index) => (
-                    <div key={index} className="education-card">
+                {educationData.map((edu) => (
+                    <div key={edu.id} className="education-card">
                         <div className="edu-header">
                             <h3 className="school-name">{edu.school}</h3>
                             <span className="edu-year">{edu.year}</span>

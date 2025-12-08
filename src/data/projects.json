@@ -9,12 +9,13 @@
             "Multi-threading"
         ],
         "description": "Developed offensive and defensive tank algorithms with a modular game manager for automated simulations with multithreaded option.",
-        "imageUrl": "public/TankBattle.png"
+        "imageUrl": "public/TankBattle.png",
+        "url": "https://github.com/shalevmazuz/TankGameSimulator"
     },
     {
         "id": 2,
         "title": "Intrusion Detection Using ML",
-        "category": "Cybersecurity & AI",
+        "category": "Cybersecurity & ML",
         "techStack": [
             "Python",
             "Scikit-learn",
@@ -22,12 +23,13 @@
             "Web Security"
         ],
         "description": "Research project to train, evaluate and compare Random Forest, KNN, and SVM models for detecting web application intrusions using network traffic data.",
-        "imageUrl": "public/IntrusionDetection.png"
+        "imageUrl": "public/IntrusionDetection.png",
+        "url": "https://github.com/shalevmazuz/ML-for-Intrusion-Detection"
     },
     {
         "id": 3,
         "title": "Age Framing in LLMs",
-        "category": "NLP Research",
+        "category": "NLP",
         "techStack": [
             "Python",
             "Hugging Face",
@@ -35,7 +37,8 @@
             "LLMs"
         ],
         "description": "Research project analyzing how age-specific prompts influence linguistic style and readability in large language models.",
-        "imageUrl": "public/NLP.png"
+        "imageUrl": "public/NLP.png",
+        "url": "https://github.com/shalevmazuz/NLP-Final-Project"
     },
     {
         "id": 4,
@@ -46,6 +49,19 @@
             "OpenCV"
         ],
         "description": "Developed a computer vision application that automatically detects and blurs vehicle license plates to ensure privacy protection.",
-        "imageUrl": "public/LicensePlateBlur.png"
+        "imageUrl": "public/LicensePlateBlur.png",
+        "url": "https://github.com/shalevmazuz/LicensePlateBlur"
+    },
+    {
+        "id": 5,
+        "title": "SymNMF for Clustering",
+        "category": "Machine Learning",
+        "techStack": [
+            "C",
+            "Python"
+        ],
+        "description": "Implementation of Symmetric Non-negative Matrix Factorization algorithm tailored for data clustering. Includes a core C implementation and Python integration via the C API for high-performance and flexibility.",
+        "imageUrl": "public/symnmf.png",
+        "url": "https://github.com/shalevmazuz/Cproject"
     }
 ]
