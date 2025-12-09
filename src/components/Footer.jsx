@@ -13,8 +13,9 @@ const Footer = () => {
                     shalevmazuz@gmail.com
                 </a>
                 <div className="phone-number">
-                    <PhoneIcon fontSize='small' />
-                    +972 50-951-8297
+                    <a href='https://www.linkedin.com/in/shalev-mazuz-781325353/'>
+                        LinkedIn
+                    </a>
                 </div>
                 <div className="footer-copyright">
                     © {new Date().getFullYear()} Shalev Mazuz. All rights reserved.
