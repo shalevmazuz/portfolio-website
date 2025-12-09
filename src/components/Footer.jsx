@@ -1,6 +1,6 @@
 import './Footer.css'
 import EmailIcon from '@mui/icons-material/Email';
-import FaLinkedin from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
 
 const Footer = () => {
     return (
