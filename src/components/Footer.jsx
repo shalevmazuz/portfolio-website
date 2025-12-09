@@ -1,6 +1,6 @@
 import './Footer.css'
 import EmailIcon from '@mui/icons-material/Email';
-import PhoneIcon from '@mui/icons-material/Phone';
+import FaLinkedin from 'react-icons/fa';
 
 const Footer = () => {
     return (
@@ -14,6 +14,7 @@ const Footer = () => {
                 </a>
                 <div className="phone-number">
                     <a href='https://www.linkedin.com/in/shalev-mazuz-781325353/' className='email-link'>
+                        <FaLinkedin />
                         LinkedIn
                     </a>
                 </div>
