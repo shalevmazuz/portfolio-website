@@ -13,7 +13,7 @@ const Footer = () => {
                     shalevmazuz@gmail.com
                 </a>
                 <div className="phone-number">
-                    <a href='https://www.linkedin.com/in/shalev-mazuz-781325353/'>
+                    <a href='https://www.linkedin.com/in/shalev-mazuz-781325353/' className='email-link'>
                         LinkedIn
                     </a>
                 </div>
